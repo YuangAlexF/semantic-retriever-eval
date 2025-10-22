@@ -1,3 +1,13 @@
+<p align="center">
+  <img src="figures/banner.png" width="600"/>
+</p>
+
+<h1 align="center">Semantic Retriever Evaluation Framework</h1>
+<p align="center">
+  University of Chicago | Applied Data Science Capstone
+</p>
+
+
 # Semantic Retriever Evaluation and Benchmarking
 
 This repository contains an evaluation pipeline for benchmarking **semantic retrievers** on the [BEIR-FiQA](https://public.ukp.informatik.tu-darmstadt.de/thakur/BEIR/datasets/fiqa.zip) dataset.  
