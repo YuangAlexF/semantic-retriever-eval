@@ -1,0 +1,16 @@
+# Core
+numpy>=1.26
+pandas>=2.0
+tqdm
+requests
+
+# Retrieval / NLP
+sentence-transformers>=3.0.0
+beir>=2.0.0
+
+# Notebook / Visualization
+matplotlib
+jupyterlab
+
+# Optional (if using LLM judge via Ollama)
+ollama
