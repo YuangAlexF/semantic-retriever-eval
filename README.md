@@ -7,6 +7,15 @@ The notebook implements reproducible comparisons between dense retrievers (DPR, 
 
 ---
 
+## Table of Contents
+1. [Project Overview](#project-overview)
+2. [Architecture](#architecture)
+3. [Models Evaluated](#models-evaluated)
+4. [Metrics](#metrics)
+5. [Example Output](#example-output)
+
+---
+
 ## Project Overview
 
 Semantic retrievers play a central role in conversational and retrieval-augmented systems.  
